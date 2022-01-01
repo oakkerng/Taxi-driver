@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186783559019",
+    "project_id": "lightidea-e591e",
+    "storage_bucket": "lightidea-e591e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186783559019:android:a194f4f6b84da3fe7f302e",
+        "android_client_info": {
+          "package_name": "com.lightidea.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186783559019-2lmpukalluthp9ctfc5fg34ag27isqdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH5a7zQ14asI4VBnKS_thpWLyZGNdSVoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186783559019-2lmpukalluthp9ctfc5fg34ag27isqdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
