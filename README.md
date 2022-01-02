@@ -9,15 +9,15 @@ The app is used in the Frontend Flutter Framework and Firebase(CloudStore) for B
 
 ## Discover new things in App
 
--SplashScreen
--LoginScreen
--Registeration
--List of Customers
--List of Past Rides
--Detail of Fare
--Search Function
--Locations
--User Profie
+-SplashScreen<br/>
+-LoginScreen<br/>
+-Registeration<br/>
+-List of Customers<br/>
+-List of Past Rides<br/>
+-Detail of Fare<br/>
+-Search Function<br/>
+-Locations<br/>
+-User Profie<br/>
 
 
 
