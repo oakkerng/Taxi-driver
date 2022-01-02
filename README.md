@@ -1,19 +1,24 @@
 # taxi
 
-A new Flutter project.
+Taxi Driver Application
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Flutter mobile app for Light Idea Organization.
+The app is used in the Frontend Flutter Framework and Firebase(CloudStore) for Backend.
 
-A few resources to get you started if this is your first Flutter project:
+## Discover new things in App
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+-SplashScreen
+-LoginScreen
+-Registeration
+-List of Customers
+-List of Past Rides
+-Detail of Fare
+-Search Function
+-Locations
+-User Profie
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 
 
