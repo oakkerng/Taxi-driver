@@ -4,7 +4,7 @@ Taxi Driver Application
 
 ## Getting Started
 
-Flutter mobile app for Light Idea Organization.\n
+Flutter mobile app for Light Idea Organization.<br/>
 The app is used in the Frontend Flutter Framework and Firebase(CloudStore) for Backend.
 
 ## Discover new things in App
